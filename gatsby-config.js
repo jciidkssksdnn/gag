@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `为啥？`,
+    title: `写点儿啥好呢？`,
     author: {
-      name: `smOne`,
-      summary: `new to blog.`,
+      name: `你的好硌`,
+      summary: `存粹一乐`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
