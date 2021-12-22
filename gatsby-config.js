@@ -3,7 +3,7 @@ module.exports = {
     title: `写点儿啥好呢？`,
     author: {
       name: `你的好硌`,
-      summary: `存粹一乐`,
+      summary: `纯粹一乐`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
